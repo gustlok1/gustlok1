@@ -3,7 +3,7 @@
 - 🔭 I’m currently finishing high school
 - 🌱 I’m currently learning JavaScript and Python for data analysis
 - 💻 I like to program sites and develop front-end 
-- 
+
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustlok1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustlok1&layout=compact&langs_count=7&theme=tokyonight"/>
